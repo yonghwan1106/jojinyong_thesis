@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Sparkles, Zap, Film, BookOpen, AlertTriangle } from "lucide-react";
-import Link from "next/link";
+import { Link } from "@/i18n/routing";
 
 export default function ImaginaryPage() {
   return (

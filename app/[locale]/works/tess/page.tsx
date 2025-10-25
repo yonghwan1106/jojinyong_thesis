@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { Scale, Heart, Quote, Flame, ArrowRight } from "lucide-react";
-import Link from "next/link";
+import { Link } from "@/i18n/routing";
 
 export default function TessPage() {
   return (
