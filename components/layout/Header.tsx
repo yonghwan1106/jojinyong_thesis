@@ -1,6 +1,6 @@
 "use client";
 
-import Link from "next/link";
+import { Link } from "@/i18n/routing";
 import { Menu, X, Globe } from "lucide-react";
 import { useState } from "react";
 import { usePathname, useRouter } from "next/navigation";
