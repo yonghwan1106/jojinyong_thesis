@@ -1,9 +1,8 @@
 "use client";
 
-import { Link } from "@/i18n/routing";
+import { Link, useRouter, usePathname } from "@/i18n/routing";
 import { Menu, X, Globe } from "lucide-react";
 import { useState } from "react";
-import { usePathname, useRouter } from "next/navigation";
 import { useLocale } from "next-intl";
 
 export default function Header() {
@@ -22,9 +21,8 @@ export default function Header() {
   ];
 
   const switchLocale = (newLocale: string) => {
-    const path = pathname.replace(`/${locale}`, '') || '/';
-    const newPath = newLocale === 'ko' ? path : `/${newLocale}${path}`;
-    router.push(newPath);
+    // Create the new path with the new locale
+    router.push(pathname, { locale: newLocale as any });
     setIsLangMenuOpen(false);
   };
 
