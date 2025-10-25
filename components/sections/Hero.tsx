@@ -39,7 +39,9 @@ export default function Hero() {
               카타르시스 알아보기
             </a>
             <a
-              href="/about"
+              href="/thesis-2025_2_21.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-8 py-3 border-2 border-ontological-600 text-ontological-600 rounded-lg font-medium hover:bg-ontological-50 transition-colors"
             >
               논문 소개

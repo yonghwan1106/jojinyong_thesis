@@ -116,7 +116,9 @@ export default function WhyImportant() {
           className="mt-12 text-center"
         >
           <a
-            href="/about"
+            href="/thesis-2025_2_21.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-gradient-to-r from-ontological-600 to-imaginary-600 text-white rounded-lg font-medium text-lg hover:shadow-lg transition-shadow"
           >
             논문 전문 알아보기
