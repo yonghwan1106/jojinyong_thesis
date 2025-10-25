@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "catharsis": "What is Catharsis?",
+    "works": "Literary Analysis",
+    "glossary": "Glossary",
+    "about": "About"
+  },
+  "home": {
+    "title": "Catharsis Studies",
+    "subtitle": "A 2,400-year-old Question Reimagined",
+    "description": "Have you cried watching a movie? Felt satisfied when justice was served in a drama?\nIt wasn't just a simple emotion.",
+    "learnMore": "Explore Catharsis",
+    "readPaper": "About the Research"
+  },
+  "catharsis": {
+    "ontological": {
+      "title": "Ontological Catharsis",
+      "subtitle": "The Shock of Discovering Truth"
+    },
+    "axiological": {
+      "title": "Axiological Catharsis",
+      "subtitle": "The Satisfaction of Justice Served"
+    },
+    "imaginary": {
+      "title": "Imaginary Catharsis",
+      "subtitle": "The Ecstasy of Impossible Dreams"
+    }
+  },
+  "common": {
+    "backToHome": "Back to Home",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "search": "Search",
+    "filter": "Filter",
+    "all": "All"
+  },
+  "footer": {
+    "title": "Catharsis Studies",
+    "description": "A New Theory of Catharsis Beyond Aristotle",
+    "author": "Author: Jinyong Jo",
+    "university": "Ph.D. in English Literature, Kyungpook National University",
+    "date": "February 2025",
+    "research": "Research Areas",
+    "copyright": "© 2025 Jinyong Jo. All rights reserved."
+  }
+}

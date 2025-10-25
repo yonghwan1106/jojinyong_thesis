@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "홈",
+    "catharsis": "카타르시스란?",
+    "works": "명작 분석",
+    "glossary": "용어 사전",
+    "about": "저자 소개"
+  },
+  "home": {
+    "title": "카타르시스 연구",
+    "subtitle": "2,400년 동안 풀리지 않았던 질문",
+    "description": "영화를 보고 울었던 경험, 드라마를 보고 속이 시원했던 순간,\n그것은 단순한 감정이 아니었습니다.",
+    "learnMore": "카타르시스 알아보기",
+    "readPaper": "논문 소개"
+  },
+  "catharsis": {
+    "ontological": {
+      "title": "존재론적 카타르시스",
+      "subtitle": "진실을 깨달았을 때의 충격"
+    },
+    "axiological": {
+      "title": "가치론적 카타르시스",
+      "subtitle": "정의가 실현되었을 때의 통쾌함"
+    },
+    "imaginary": {
+      "title": "가상적 카타르시스",
+      "subtitle": "불가능한 꿈에 몰입할 때의 황홀함"
+    }
+  },
+  "common": {
+    "backToHome": "홈으로 돌아가기",
+    "learnMore": "자세히 알아보기",
+    "readMore": "더 읽기",
+    "search": "검색",
+    "filter": "필터",
+    "all": "전체"
+  },
+  "footer": {
+    "title": "카타르시스 연구",
+    "description": "아리스토텔레스를 넘어서는 새로운 카타르시스 이론",
+    "author": "저자: 조진용",
+    "university": "국립경북대학교 영문학 박사",
+    "date": "2025년 2월",
+    "research": "연구 영역",
+    "copyright": "© 2025 조진용. All rights reserved."
+  }
+}
