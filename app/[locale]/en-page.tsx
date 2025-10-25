@@ -27,7 +27,14 @@ export default function EnglishPage() {
             <p className="text-gray-700">
               <strong>Jinyong Jo</strong> | Ph.D. in English Literature
               <br />
-              Kyungguk National University | February 2025
+              <a
+                href="https://graduation.gknu.ac.kr/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-ontological-600 transition-colors font-medium"
+              >
+                Kyungguk National University
+              </a> | February 2025
             </p>
           </div>
         </motion.div>
