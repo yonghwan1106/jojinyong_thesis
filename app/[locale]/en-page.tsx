@@ -27,7 +27,7 @@ export default function EnglishPage() {
             <p className="text-gray-700">
               <strong>Jinyong Jo</strong> | Ph.D. in English Literature
               <br />
-              Kyungpook National University | February 2025
+              Kyungguk National University | February 2025
             </p>
           </div>
         </motion.div>

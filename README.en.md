@@ -74,7 +74,7 @@ npm start
 ## Author
 
 **Jinyong Jo**
-- Ph.D. in English Literature, Kyungpook National University
+- Ph.D. in English Literature, Kyungguk National University
 - Dissertation: "Catharsis Studies" (February 2025)
 
 ## Project Structure

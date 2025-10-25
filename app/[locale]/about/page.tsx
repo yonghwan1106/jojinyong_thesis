@@ -42,7 +42,7 @@ export default function AboutPage() {
             </div>
             <div>
               <h2 className="text-2xl font-bold mb-2">학위</h2>
-              <p className="text-lg text-gray-700">국립경북대학교 영문학 박사</p>
+              <p className="text-lg text-gray-700">국립경국대학교 영문학 박사</p>
             </div>
           </div>
 

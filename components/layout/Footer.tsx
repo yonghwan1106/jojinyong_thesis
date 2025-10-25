@@ -13,7 +13,7 @@ export default function Footer() {
             <h3 className="font-bold text-lg mb-2">논문 정보</h3>
             <p className="text-sm text-gray-600">
               저자: 조진용<br />
-              국립경북대학교 영문학 박사<br />
+              국립경국대학교 영문학 박사<br />
               2025년 2월
             </p>
           </div>
