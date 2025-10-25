@@ -1,5 +1,5 @@
 import createMiddleware from 'next-intl/middleware';
-import { locales } from './i18n';
+import { locales } from './i18n/request';
 
 export default createMiddleware({
   // A list of all locales that are supported
@@ -8,8 +8,8 @@ export default createMiddleware({
   // Used when no locale matches
   defaultLocale: 'ko',
 
-  // Don't use a prefix for the default locale
-  localePrefix: 'as-needed'
+  // Always use a prefix for all locales
+  localePrefix: 'always'
 });
 
 export const config = {
