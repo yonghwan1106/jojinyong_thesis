@@ -101,6 +101,29 @@ export default function Header() {
                 {item.name}
               </Link>
             ))}
+
+            {/* Mobile Language Switcher */}
+            <div className="pt-4 border-t border-gray-200">
+              <div className="text-sm font-medium text-gray-500 mb-2">Language</div>
+              <button
+                onClick={() => {
+                  switchLocale('ko');
+                  setIsMenuOpen(false);
+                }}
+                className={`block w-full text-left py-2 text-sm font-medium transition-colors hover:text-ontological-600 ${locale === 'ko' ? 'text-ontological-600 font-bold' : ''}`}
+              >
+                한국어
+              </button>
+              <button
+                onClick={() => {
+                  switchLocale('en');
+                  setIsMenuOpen(false);
+                }}
+                className={`block w-full text-left py-2 text-sm font-medium transition-colors hover:text-ontological-600 ${locale === 'en' ? 'text-ontological-600 font-bold' : ''}`}
+              >
+                English
+              </button>
+            </div>
           </nav>
         )}
       </div>
